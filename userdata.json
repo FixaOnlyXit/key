@@ -16,5 +16,11 @@
     "key": "ALDO-10880",
     "expirydate": "30-05-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "573cdc7aab66c1cd",
+    "key": "ALDO-46178",
+    "expirydate": "30-05-2026",
+    "Allowoffline": false
   }
 ]
