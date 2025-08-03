@@ -15,6 +15,6 @@
     "device_id": "573cdc7aab66c1cd",
     "key": "ALDO-36285",
     "expirydate": "02-09-2025",
-    "Allowoffline": false
+    "Allowoffline": true
   }
 ]
