@@ -22,5 +22,11 @@
     "key": "ALDO-34571",
     "expirydate": "NaN-NaN-NaN",
     "Allowoffline": true
+  },
+  {
+    "device_id": "573cdc7aab66c1cd",
+    "key": "ALDO-33425",
+    "expirydate": "09-11-2033",
+    "Allowoffline": true
   }
 ]
